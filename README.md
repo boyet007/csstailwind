@@ -12,5 +12,7 @@ langkah buat file config js :
 - configure file nya
 - npm  run build-css 
 
+icons : https://heroicons.com/
+
 
 
